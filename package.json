@@ -1,0 +1,20 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "this is nodejs",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "data.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "vivek"
+  },
+  "author": "vivek",
+  "license": "ISC",
+  "dependencies": {
+    "http": "^0.0.1-security",
+    "nodemailer": "^6.9.4"
+  }
+}
